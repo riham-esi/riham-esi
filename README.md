@@ -130,11 +130,6 @@ Graph Neural Networks (GNNs) • Multi-Agent Systems • Swarm Intelligence • 
 ## GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=riham-esi&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riham-esi&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=riham-esi&theme=tokyonight&hide_border=true"/>
 </p>
 
