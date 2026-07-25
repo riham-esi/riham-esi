@@ -218,23 +218,11 @@ Backend APIs · Database Design · Full-Stack Development
 
 <img
 height="180"
-src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=riham-esi&theme=tokyonight"/>
+src="https://github-readme-stats.vercel.app/api?username=riham-esi&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
 
 <img
 height="180"
-src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=riham-esi&theme=tokyonight"/>
-
-</p>
-
-<p align="center">
-
-<img
-height="180"
-src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=riham-esi&theme=tokyonight"/>
-
-<img
-height="180"
-src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=riham-esi&theme=tokyonight&utcOffset=1"/>
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=riham-esi&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
