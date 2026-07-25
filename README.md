@@ -2,7 +2,7 @@
 
 <p align="center">
   <strong>
-  AI Engineering Student | Machine Learning | Deep Learning | LLM Applications | Full-Stack Development
+  AI Engineering Student | Building ML & LLM-powered Applications | Backend & Mobile Developer
   </strong>
   <br>
   Building intelligent systems that combine AI research with real-world applications.
@@ -33,11 +33,11 @@ Currently exploring:
 
 ---
 
-# 🛠️ Technologies & Tools
+#  Technologies & Tools
 
 ---
 
-## 🤖 Artificial Intelligence & Machine Learning
+##  Artificial Intelligence & Machine Learning
 
 <p>
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
@@ -52,7 +52,7 @@ Currently exploring:
 
 ---
 
-## 🧠 Generative AI & LLM Engineering
+##  Generative AI & LLM Engineering
 
 <p>
 
@@ -66,7 +66,7 @@ Currently exploring:
 
 ---
 
-## ⚙️ Backend Engineering
+##  Backend Engineering
 
 <p>
 
@@ -80,7 +80,7 @@ Currently exploring:
 
 ---
 
-## 💻 Programming Languages
+##  Programming Languages
 
 <p>
 
@@ -94,7 +94,7 @@ Currently exploring:
 
 ---
 
-## 🌐 Frontend & Mobile Development
+##  Frontend & Mobile Development
 
 <p>
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
@@ -107,7 +107,7 @@ Currently exploring:
 
 ---
 
-## 🗄️ Databases
+##  Databases
 
 <p>
 
@@ -119,7 +119,7 @@ Currently exploring:
 
 ---
 
-## 🚀 MLOps & Development Tools
+##  MLOps & Development Tools
 
 <p>
 
@@ -212,7 +212,7 @@ Backend APIs · Database Design · Full-Stack Development
 
 ---
 
-# 📬 Contact
+#  Contact
 
 <p align="center">
 
