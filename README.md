@@ -135,7 +135,7 @@ Currently exploring:
 #  Featured Projects
 
 
-##  Decentralized Drone Swarm Coordination using GNNs
+## 1- Decentralized Drone Swarm Coordination using GNNs
 
 **Type:** AI Research Project
 
@@ -148,7 +148,7 @@ PyTorch · PyTorch Geometric · Graph Neural Networks · Deep Learning
 
 ---
 
-##  AI Quran Recitation Correction System
+## 2- AI Quran Recitation Correction System
 
 **Type:** Speech AI Application
 
@@ -161,7 +161,7 @@ Deep Learning · Speech Processing · NLP · AI Models
 
 ---
 
-##  Violence Detection in Videos
+## 3- Violence Detection in Videos
 
 **Type:** Computer Vision System
 
@@ -174,7 +174,7 @@ PyTorch · Computer Vision · 3D CNN · Streamlit
 
 ---
 
-##  AI Skills Gap Analyzer
+## 4- AI Skills Gap Analyzer
 
 **Type:** NLP & Machine Learning Application
 
@@ -187,7 +187,7 @@ Python · NLP · Machine Learning · FastAPI
 
 ---
 
-##  Healthy Recipe Saver
+## 5- Healthy Recipe Saver
 
 **Type:** Full-Stack Application
 
@@ -200,7 +200,7 @@ Next.js · Node.js · Prisma · PostgreSQL
 
 ---
 
-##  Mediciel Platform
+## 6- Mediciel Platform
 
 **Type:** Healthcare Management System
 
@@ -209,6 +209,42 @@ A medical platform designed for managing patient information, appointments, and 
 **Technologies:**
 
 Backend APIs · Database Design · Full-Stack Development
+
+---
+
+#  GitHub Statistics
+
+<p align="center">
+
+<img
+height="180"
+src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=riham-esi&theme=tokyonight"/>
+
+<img
+height="180"
+src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=riham-esi&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img
+height="180"
+src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=riham-esi&theme=tokyonight"/>
+
+<img
+height="180"
+src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=riham-esi&theme=tokyonight&utcOffset=1"/>
+
+</p>
+
+<p align="center">
+
+<img
+width="95%"
+src="https://github-readme-activity-graph.vercel.app/graph?username=riham-esi&theme=tokyo-night&hide_border=true"/>
+
+</p>
 
 ---
 
