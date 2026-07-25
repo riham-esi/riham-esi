@@ -1,146 +1,225 @@
-<h1 align="center">Hi 👋, I'm Riham Messaoudi</h1>
-
-<h3 align="center">
-AI & Data Science Student | Graph Neural Networks | Computer Vision | NLP | Fullstack & Mobile Development
-</h3>
-
----
-
-## About Me
-
-- 🔭 Currently working on **Decentralized Drone Swarm Coordination using Graph Neural Networks (GNNs)**  
-  A hybrid multi-agent AI system for scalable and collision-free drone formation control in dynamic environments, leveraging Graph Attention Networks (GATs) and graph convolutional architectures such as NNConv, combined with expert-guided residual learning to refine formation setpoints and ensure safe, decentralized coordination.
-
-- 🌱 Currently learning: Graph Neural Networks, Multi-Agent Systems, Deep Reinforcement Learning, Distributed AI Systems
-
-- 💬 Open to discussions on: Machine Learning, Computer Vision, NLP, GNNs, FastAPI, Node.js, Flutter, and Deep Learning systems
-
----
-
-## Research & Interests
-
-Graph Neural Networks (GNNs) • Multi-Agent Systems • Swarm Intelligence • Computer Vision • Video Understanding • NLP & Transformers • Autonomous AI Systems • Scalable Machine Learning Systems
-
----
-
-## Tech Stack
-
-<br>
-
-### Languages
+<h1 align="center">Hi, I'm Riham Messaoudi</h1>
 
 <p align="center">
-<a href="https://www.python.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45"/></a>
-<a href="https://www.java.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45"/></a>
-<a href="https://www.javascript.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45"/></a>
-<a href="https://www.typescriptlang.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="45"/></a>
-<a href="https://www.cprogramming.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="45"/></a>
-<a href="https://isocpp.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="45"/></a>
-</p>
-
-<br>
-
-### AI / ML
-
-<p align="center">
-<a href="https://pytorch.org/"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="45"/></a>
-<a href="https://www.tensorflow.org/"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="45"/></a>
-<a href="https://scikit-learn.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="45"/></a>
-<a href="https://opencv.org/"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="45"/></a>
-<a href="https://pandas.pydata.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="45"/></a>
-<a href="https://numpy.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="45"/></a>
-</p>
-
-<br>
-
-### Backend
-
-<p align="center">
-<a href="https://nodejs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="45"/></a>
-<a href="https://expressjs.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="45"/></a>
-<a href="https://fastapi.tiangolo.com/"><img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" width="45"/></a>
-<a href="https://www.djangoproject.com/"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="45"/></a>
-</p>
-
-<br>
-
-### Mobile
-
-<p align="center">
-<a href="https://flutter.dev/"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="45"/></a>
-<a href="https://dart.dev/"><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="45"/></a>
-</p>
-
-<br>
-
-### Frontend
-
-<p align="center">
-<a href="https://react.dev/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="45"/></a>
-<a href="https://nextjs.org/"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="45"/></a>
-<a href="https://tailwindcss.com/"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="45"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="45"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="45"/></a>
-</p>
-
-<br>
-
-### Databases
-
-<p align="center">
-<a href="https://www.postgresql.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="45"/></a>
-<a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="45"/></a>
-<a href="https://www.sqlite.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original-wordmark.svg" width="45"/></a>
-</p>
-
-<br>
-
-### Tools
-
-<p align="center">
-<a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="45"/></a>
-<a href="https://www.docker.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="45"/></a>
-<a href="https://www.linux.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="45"/></a>
-<a href="https://www.postman.com/"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="45"/></a>
-</p>
-
-<br>
-
----
-
-## Featured Projects
-
-- **Drone Swarm Coordination (GNN)**  
-  Multi-agent system for decentralized formation control and collision avoidance using Graph Neural Networks.
-
-- **Violence Detection in Videos**  
-  Deep learning video classification using 3D CNN (R3D-18) with Streamlit deployment.
-
-- **Skills Gap Analysis AI System**  
-  NLP-based system for matching user skills with job requirements using similarity modeling and ML pipelines.
-
-- **Healthy Recipe Saver**  
-  Fullstack web application using Next.js, Node.js, Prisma, PostgreSQL, and JWT authentication.
-
-- **Mediciel Platform**  
-  Medical record management system with scheduling, secure data handling, and role-based access control.
-
----
-
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=riham-esi&theme=tokyonight&hide_border=true"/>
+  <strong>
+  AI Engineering Student | Machine Learning | Deep Learning | LLM Applications | Full-Stack Development
+  </strong>
+  <br>
+  Building intelligent systems that combine AI research with real-world applications.
 </p>
 
 ---
 
-## Contact
+##  About Me
+
+I am passionate about designing and building intelligent systems using Machine Learning, Deep Learning, and modern software engineering practices.
+
+My interests include:
+
+- Artificial Intelligence & Machine Learning
+-  Large Language Models (LLMs) and Generative AI
+-  NLP and Intelligent Applications
+-  AI Engineering and Model Deployment
+-  Mobile & backend development for AI-powered products
+
+
+Currently exploring:
+
+- Retrieval-Augmented Generation (RAG)
+- AI Agents
+- LLM-powered applications
+- Generative AI 
+
+
+---
+
+# 🛠️ Technologies & Tools
+
+---
+
+## 🤖 Artificial Intelligence & Machine Learning
+
+<p>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyTorch%20Geometric-3C3C3C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+</p>
+
+
+---
+
+## 🧠 Generative AI & LLM Engineering
+
+<p>
+
+<img src="https://img.shields.io/badge/RAG-412991?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+<img src="https://img.shields.io/badge/Vector%20Databases-4285F4?style=for-the-badge"/>
+
+</p>
+
+
+---
+
+## ⚙️ Backend Engineering
+
+<p>
+
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST%20APIs-02569B?style=for-the-badge"/>
+
+</p>
+
+
+---
+
+## 💻 Programming Languages
+
+<p>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+
+</p>
+
+
+---
+
+## 🌐 Frontend & Mobile Development
+
+<p>
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
+
+
+</p>
+
+
+---
+
+## 🗄️ Databases
+
+<p>
+
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+
+</p>
+
+
+---
+
+## 🚀 MLOps & Development Tools
+
+<p>
+
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+
+</p>
+
+---
+
+#  Featured Projects
+
+
+##  Decentralized Drone Swarm Coordination using GNNs
+
+**Type:** AI Research Project
+
+Developed a multi-agent AI system for decentralized drone swarm coordination using Graph Neural Networks to model agent interactions and optimize formation control.
+
+**Technologies:**
+
+PyTorch · PyTorch Geometric · Graph Neural Networks · Deep Learning
+
+
+---
+
+##  AI Quran Recitation Correction System
+
+**Type:** Speech AI Application
+
+An intelligent system designed to analyze Quran recitation and provide feedback to help users improve pronunciation accuracy.
+
+**Technologies:**
+
+Deep Learning · Speech Processing · NLP · AI Models
+
+
+---
+
+##  Violence Detection in Videos
+
+**Type:** Computer Vision System
+
+Built a deep learning video classification pipeline for detecting violent activities in videos using spatio-temporal neural networks.
+
+**Technologies:**
+
+PyTorch · Computer Vision · 3D CNN · Streamlit
+
+
+---
+
+##  AI Skills Gap Analyzer
+
+**Type:** NLP & Machine Learning Application
+
+Developed an AI-based platform that analyzes user skills and compares them with job requirements using NLP similarity techniques.
+
+**Technologies:**
+
+Python · NLP · Machine Learning · FastAPI
+
+
+---
+
+##  Healthy Recipe Saver
+
+**Type:** Full-Stack Application
+
+A web application for managing and discovering healthy recipes with modern frontend and backend architecture.
+
+**Technologies:**
+
+Next.js · Node.js · Prisma · PostgreSQL
+
+
+---
+
+##  Mediciel Platform
+
+**Type:** Healthcare Management System
+
+A medical platform designed for managing patient information, appointments, and healthcare workflows with secure role-based access.
+
+**Technologies:**
+
+Backend APIs · Database Design · Full-Stack Development
+
+---
+
+# 📬 Contact
 
 <p align="center">
-  <a href="https://linkedin.com/in/riham-messaoudi">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
-  </a>
+
+<a href="https://linkedin.com/in/riham-messaoudi">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
 </p>
 
 <p align="center">
