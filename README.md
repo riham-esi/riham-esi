@@ -212,16 +212,16 @@ Backend APIs · Database Design · Full-Stack Development
 
 ---
 
-#  GitHub Statistics
+#  GitHub Stats
 
 <p align="center">
 
 <img
-height="180"
-src="https://github-readme-stats.vercel.app/api?username=riham-esi&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+height="170"
+src="https://github-readme-stats.vercel.app/api?username=riham-esi&show_icons=true&theme=tokyonight&hide_border=true"/>
 
 <img
-height="180"
+height="170"
 src="https://github-readme-stats.vercel.app/api/top-langs/?username=riham-esi&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
@@ -229,8 +229,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=riham-esi&la
 <p align="center">
 
 <img
-width="95%"
-src="https://github-readme-activity-graph.vercel.app/graph?username=riham-esi&theme=tokyo-night&hide_border=true"/>
+src="https://github-readme-streak-stats.herokuapp.com/?user=riham-esi&theme=tokyonight&hide_border=true"/>
 
 </p>
 
