@@ -7,7 +7,23 @@
   <br>
   Building intelligent systems that combine AI research with real-world applications.
 </p>
+<p align="center">
 
+<a href="https://my-portfolio-seven-alpha-48.vercel.app">
+  <img
+    src="https://img.shields.io/badge/EXPLORE%20MY%20PORTFOLIO-View%20My%20Projects%20%E2%86%92-2563EB?style=for-the-badge&logo=vercel&logoColor=white&labelColor=111827"
+    alt="Explore My Portfolio"
+    height="55"
+  />
+</a>
+
+</p>
+
+<p align="center">
+  <strong>
+    Explore my AI, machine learning, full-stack, backend, and mobile projects.
+  </strong>
+</p>
 ---
 
 ##  About Me
