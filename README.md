@@ -10,16 +10,15 @@
 <p align="center">
   <a href="https://my-portfolio-seven-alpha-48.vercel.app">
     <img
-      src="https://img.shields.io/badge/✨%20EXPLORE%20MY%20PORTFOLIO-Click%20to%20View%20My%20Work-8B5CF6?style=for-the-badge&labelColor=EC4899"
+      src="https://img.shields.io/badge/✨%20EXPLORE%20MY%20PORTFOLIO-8B5CF6?style=for-the-badge&labelColor=EC4899"
       alt="Explore My Portfolio"
-      height="55"
     />
   </a>
 </p>
 
 <p align="center">
   <strong>
-    Explore my AI, machine learning, full-stack, backend, and mobile projects.
+    Explore the ideas I’ve brought to life.
   </strong>
 </p>
 
