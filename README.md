@@ -8,15 +8,13 @@
   Building intelligent systems that combine AI research with real-world applications.
 </p>
 <p align="center">
-
-<a href="https://my-portfolio-seven-alpha-48.vercel.app">
-  <img
-    src="https://img.shields.io/badge/EXPLORE%20MY%20PORTFOLIO-View%20My%20Projects%20%E2%86%92-2563EB?style=for-the-badge&logo=vercel&logoColor=white&labelColor=111827"
-    alt="Explore My Portfolio"
-    height="55"
-  />
-</a>
-
+  <a href="https://my-portfolio-seven-alpha-48.vercel.app">
+    <img
+      src="https://img.shields.io/badge/✨%20EXPLORE%20MY%20PORTFOLIO-Click%20to%20View%20My%20Work-8B5CF6?style=for-the-badge&labelColor=EC4899"
+      alt="Explore My Portfolio"
+      height="55"
+    />
+  </a>
 </p>
 
 <p align="center">
@@ -24,7 +22,6 @@
     Explore my AI, machine learning, full-stack, backend, and mobile projects.
   </strong>
 </p>
----
 
 ##  About Me
 
@@ -229,18 +226,6 @@ Backend APIs · Database Design · Full-Stack Development
 ---
 
 #  GitHub Stats
-
-<p align="center">
-
-<img
-height="170"
-src="https://github-readme-stats.vercel.app/api?username=riham-esi&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img
-height="170"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=riham-esi&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
 
 <p align="center">
 
