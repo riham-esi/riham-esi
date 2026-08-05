@@ -18,7 +18,7 @@
 
 <p align="center">
   <strong>
-    Explore the ideas I’ve brought to life.
+    Discover the ideas I’ve brought to life.
   </strong>
 </p>
 
