@@ -8,7 +8,7 @@
   Building intelligent systems that combine AI research with real-world applications.
 </p>
 <p align="center">
-  <a href="riham-messaoudi-portfolio.vercel.app">
+  <a href="https://riham-messaoudi-portfolio.vercel.app">
     <img
       src="https://img.shields.io/badge/✨%20EXPLORE%20MY%20PORTFOLIO-8B5CF6?style=for-the-badge&labelColor=EC4899"
       alt="Explore My Portfolio"
