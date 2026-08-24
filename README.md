@@ -246,5 +246,5 @@ src="https://github-readme-streak-stats.herokuapp.com/?user=riham-esi&theme=toky
 </p>
 
 <p align="center">
-Email: r.messaoudi@esi-sba.dz
+Email: rihamm.messaoudi@gmail.com
 </p>
