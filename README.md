@@ -144,97 +144,21 @@ Currently exploring:
 
 ---
 
-#  Featured Projects
-
-
-## 1- Decentralized Drone Swarm Coordination using GNNs
-
-**Type:** AI Research Project
-
-Developed a multi-agent AI system for decentralized drone swarm coordination using Graph Neural Networks to model agent interactions and optimize formation control.
-
-**Technologies:**
-
-PyTorch · PyTorch Geometric · Graph Neural Networks · Deep Learning
-
-
----
-
-## 2- AI Quran Recitation Correction System
-
-**Type:** Speech AI Application
-
-An intelligent system designed to analyze Quran recitation and provide feedback to help users improve pronunciation accuracy.
-
-**Technologies:**
-
-Deep Learning · Speech Processing · NLP · AI Models
-
-
----
-
-## 3- Violence Detection in Videos
-
-**Type:** Computer Vision System
-
-Built a deep learning video classification pipeline for detecting violent activities in videos using spatio-temporal neural networks.
-
-**Technologies:**
-
-PyTorch · Computer Vision · 3D CNN · Streamlit
-
-
----
-
-## 4- AI Skills Gap Analyzer
-
-**Type:** NLP & Machine Learning Application
-
-Developed an AI-based platform that analyzes user skills and compares them with job requirements using NLP similarity techniques.
-
-**Technologies:**
-
-Python · NLP · Machine Learning · FastAPI
-
-
----
-
-## 5- Healthy Recipe Saver
-
-**Type:** Full-Stack Application
-
-A web application for managing and discovering healthy recipes with modern frontend and backend architecture.
-
-**Technologies:**
-
-Next.js · Node.js · Prisma · PostgreSQL
-
-
----
-
-## 6- Mediciel Platform
-
-**Type:** Healthcare Management System
-
-A medical platform designed for managing patient information, appointments, and healthcare workflows with secure role-based access.
-
-**Technologies:**
-
-Backend APIs · Database Design · Full-Stack Development
-
----
-
-#  GitHub Stats
+# GitHub Activity
 
 <p align="center">
-
-<img
-src="https://github-readme-streak-stats.herokuapp.com/?user=riham-esi&theme=tokyonight&hide_border=true"/>
-
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=riham-esi&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
+    height="165"
+    alt="Riham's GitHub Stats"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=riham-esi&layout=compact&theme=tokyonight&hide_border=true"
+    height="165"
+    alt="Most Used Languages"
+  />
 </p>
-
 ---
-
 #  Contact
 
 <p align="center">
