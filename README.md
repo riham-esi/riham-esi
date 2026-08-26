@@ -137,5 +137,5 @@ Currently exploring:
 </p>
 
 <p align="center">
-  <strong>Email:</strong> rihamm.messaoudi@gmail.com
+  <strong>Email:</strong> rihammessaoudi17@gmail.com
 </p>
