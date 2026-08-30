@@ -61,9 +61,12 @@ Currently exploring:
 
 <p>
   <img src="https://img.shields.io/badge/RAG-412991?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Embeddings-6366F1?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Semantic%20Search-2563EB?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Vector%20Databases-4285F4?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Prompt%20Engineering-7C3AED?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
 </p>
 
 ## Backend Engineering
