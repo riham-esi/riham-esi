@@ -1,3 +1,4 @@
+
 <h1 align="center">Hi, I'm Riham Messaoudi</h1>
 
 <p align="center">
@@ -34,12 +35,14 @@ My interests include:
 - NLP & Intelligent Applications
 - AI Engineering & Model Deployment
 - Mobile & Backend Development for AI-powered products
+- Quantum Computing & Quantum Machine Learning
 
 Currently exploring:
 
 - Retrieval-Augmented Generation (RAG)
 - AI Agents
 - LLM-powered intelligent systems
+- Quantum Computing with PennyLane
 
 ---
 
@@ -67,6 +70,13 @@ Currently exploring:
   <img src="https://img.shields.io/badge/Prompt%20Engineering-7C3AED?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white"/>
   <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+</p>
+
+## Quantum Computing
+
+<p>
+  <img src="https://img.shields.io/badge/PennyLane-6B46C1?style=for-the-badge&logoColor=white" alt="PennyLane"/>
+  <img src="https://img.shields.io/badge/Quantum%20Computing-Learning-64748B?style=for-the-badge" alt="Quantum Computing"/>
 </p>
 
 ## Backend Engineering
@@ -123,7 +133,7 @@ Currently exploring:
 </p>
 
 <p align="center">
-  <i>Explore my pinned repositories below for my latest AI, machine learning, backend, and application projects.</i>
+  <i>Explore my pinned repositories for my AI, machine learning, quantum computing, backend, and application projects.</i>
 </p>
 
 ---
