@@ -31,7 +31,6 @@ I am passionate about designing and building intelligent systems using Machine L
 My interests include:
 
 - Artificial Intelligence & Machine Learning
-- Large Language Models (LLMs) & Generative AI
 - NLP & Intelligent Applications
 - AI Engineering & Model Deployment
 - Mobile & Backend Development for AI-powered products
@@ -40,7 +39,6 @@ My interests include:
 Currently exploring:
 
 - Retrieval-Augmented Generation (RAG)
-- AI Agents
 - LLM-powered intelligent systems
 - Quantum Computing with PennyLane
 
